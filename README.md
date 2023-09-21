@@ -1,6 +1,8 @@
 # Pong
 A very basic PONG adaptation with the SFML library.
 
+![alt text](img/pong.gif)
+
 
 # Setup
 To make it work you will need to change the fonts path pointing it to a font you downloaded.
